@@ -24,15 +24,15 @@ int test2() {
 }
 
 int adumbrate_classwork1(void) {
-	printf("hello,胡峻豪\n");
-	printf("这是你的姓:胡\n");
-	printf("这是你的名:峻豪\n");
-	printf("这是你的姓名:胡峻豪\n");
+	printf("hello,xxx\n");
+	printf("这是你的姓:x\n");
+	printf("这是你的名:xxx\n");
+	printf("这是你的姓名:xxxx\n");
 	return 0;
 }
 
 int adumbrate_classwork2(void) {
-	printf("hello,胡峻豪,这是你的地址:江西省赣州市宁都县林业局宿舍\n");
+	printf("hello,xxx,这是你的地址:xxx\n");
 	return 0;
 }
 
