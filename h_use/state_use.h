@@ -1,0 +1,170 @@
+#pragma once
+int study1(void); //º¯ÊýÉùÃ÷
+int test1(void);
+int test2(void);
+int jolly(void);
+int deny(void);
+int br(void);
+int ic(void);
+int one_three(void);
+int two(void);
+//-----------------------------
+int adumbrate(void);
+int adumbrate_classwork1(void);
+int adumbrate_classwork2(void);
+int adumbrate_classwork3(void);
+int adumbrate_classwork4(void);
+int adumbrate_classwork5(void);
+int adumbrate_classwork6(void);
+int adumbrate_classwork7(void);
+//--------------------------
+int data(void);
+int study2(void);
+int study3(void);
+int data_classwork1(void);
+int data_classwork2(void);
+int data_classwork3(void);
+int data_classwork4(void);
+int data_classwork5(void);
+int data_classwork6(void);
+int data_classwork7(void);
+int data_classwork8(void);
+//------------------------------------
+int string(void);
+int study4(void);
+int string_classwork1(void);
+int string_classwork2(void);
+int string_classwork3(void);
+int string_classwork4(void);
+int string_classwork5(void);
+int string_classwork6(void);
+int string_classwork7(void);
+//-----------------------------------
+int intergral();
+int test3(void);
+int test4(void);
+int intergral_classwork1(void);
+int intergral_classwork2(void);
+int intergral_classwork3(void);
+int intergral_classwork4(void);
+int intergral_classwork5(void);
+int intergral_classwork6(void);
+int intergral_classwork7(double sqrt);
+int intergral_classwork8(void);
+double cubic(double sqrt);
+//----------------------------------------------
+int recycle(void);
+int recycle_classwork1(void);
+int recycle_classwork2(void);
+int recycle_classwork3(void);
+int recycle_classwork4(void);
+int recycle_classwork5(void);
+int recycle_classwork6(void);
+int recycle_classwork7(void);
+int recycle_classwork8(void);
+int recycle_classwork9(void);
+int recycle_classwork10(void);
+int recycle_classwork11(void);
+int recycle_classwork12(void);
+int recycle_classwork13(void);
+int recycle_classwork14(void);
+int recycle_classwork15(void);
+int recycle_classwork16(void);
+int recycle_classwork17(void);
+int recycle_classwork18(void);
+//--------------------------------------
+int if_switch();
+int if_switch_classwork1(void);
+int if_switch_classwork2(void);
+int if_switch_classwork3(void);
+int if_switch_classwork4(void);
+int if_switch_classwork5(void);
+int if_switch_classwork6(void);
+int if_switch_classwork7(void);
+int if_switch_classwork8(void);
+//int if_switch_classwork9(void);
+int if_switch_classwork10(void);
+int if_switch_classwork11(void);
+//------------------------------------
+int char_comfirm();
+int char_comfirm_classwork1(void);
+//----------------------------------
+int function(void);
+int review_function_6(void);
+int review_function_8(void);
+int function_classwork_1(void);
+int function_classwork_2(void);
+int function_classwork_3(void);
+int function_classwork_4(void);
+int function_classwork_5(void);
+int function_classwork_6(void);
+int function_classwork_7(void);
+int function_classwork_8(void);
+int function_classwork_9(void);
+int function_classwork_10(void);
+int function_classwork_11(void);
+int function_classwork_12(void);
+//-----------------------------------
+int printer(void);
+int printer_classwork_1(void);
+int printer_classwork_2(void);
+int printer_classwork_3(void);
+int printer_classwork_4(void);
+int printer_classwork_5(void);
+int printer_classwork_6(void);
+int printer_classwork_7(void);
+int printer_classwork_8(void);
+int printer_classwork_9(void);
+int printer_classwork_10(void);
+int printer_classwork_11(void);
+int printer_classwork_12(void);
+int printer_classwork_13(void);
+//-----------------------------------
+int string_output(void);
+int string_output_review_9(void);
+int string_output_review_10(void);
+int string_output_review_11(void);
+int string_output_review_12(void);
+int string_output_review_13(void);
+int string_output_classwork_1(void);
+int string_output_classwork_2(void);
+int string_output_classwork_3(void);
+int string_output_classwork_4(void);
+int string_output_classwork_5(void);
+//-----------------------------------
+int memory();
+int memory_classwork_1(void);
+int memory_classwork_2(void);
+int memory_classwork_3(void);
+int memory_classwork_4(void);
+int memory_classwork_5(void);
+int memory_classwork_6(void);
+int memory_classwork_7(void);
+//-----------------------------------
+int struct_();
+int struct_review_4(void);
+int struct_review_5(void);
+int struct_review_6(void);
+int struct_review_7(void);
+int struct_review_10_a(void);
+int struct_review_10_b(void);
+int struct_classwork_1(void);
+int struct_classwork_2(void); 
+int struct_classwork_3(void);
+int struct_classwork_4_a(void);
+int struct_classwork_4_b(void);
+int struct_classwork_5(void);
+int struct_classwork_8(void);
+int struct_classwork_9(void);
+//-----------------------------------
+int linked_list(void);
+int films(void);
+int ADT(void);
+int queue(void);
+int mall(void);
+int list_traverse(void);
+int Stack_u(void);
+int Stack_Word(void);
+void Test_search(void);
+int Tree_main(void);
+/*--------------------------------*/

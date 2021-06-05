@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Stack.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Use_s.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\adt\ADT.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\adt\list.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\c_use\1st.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\c_use\内存分配.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\c_use\函数.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\c_use\分支与跳转.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\c_use\字符串和格式化输入输出.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\c_use\字符串输出.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\c_use\字符输入输出验证.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\c_use\循环.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\c_use\指针.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\c_use\数据与C.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\c_use\概述.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\c_use\结构_枚举及联合.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\c_use\表达式.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\c_use\高级数据表示.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\diceroll\diceroll.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\diceroll\manydice.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\pe12\pe12-2a.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\pe12\pe12-2b.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\stack_word\stack_word.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\stack_word\use_word.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\tree\petclub.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\tree\tree.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Stack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\adt\list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\diceroll\diceroll.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\h_use\starfolk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\h_use\state_use.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pe12\pe12-2a.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\stack_word\stack_word.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\tree\tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

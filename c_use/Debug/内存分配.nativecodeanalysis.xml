@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>内存分配.c</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>critic</FUNCTION>
+    <DECORATED>critic</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>内存分配.c</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>global</FUNCTION>
+    <DECORATED>global</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>内存分配.c</FILENAME>
+      <LINE>34</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>memory_classwork_4</FUNCTION>
+    <DECORATED>memory_classwork_4</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>内存分配.c</FILENAME>
+      <LINE>132</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>取消对 NULL 指针“pt”的引用。</DESCRIPTION>
+    <FUNCTION>make_array</FUNCTION>
+    <DECORATED>make_array</DECORATED>
+    <FUNCLINE>128</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>内存分配.c</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>“pt”可能为 NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>内存分配.c</FILENAME>
+        <LINE>130</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>内存分配.c</FILENAME>
+        <LINE>131</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>内存分配.c</FILENAME>
+        <LINE>131</LINE>
+        <COLUMN>19</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>分支</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>进入此循环(假定“i&lt;item”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>内存分配.c</FILENAME>
+        <LINE>132</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>已取消对“pt”的引用，但可能仍为 NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>内存分配.c</FILENAME>
+      <LINE>145</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>pe12_8</FUNCTION>
+    <DECORATED>pe12_8</DECORATED>
+    <FUNCLINE>138</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,6 @@
+C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\Debug\C lesson.exe
+C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\Debug\C lesson.pdb
+C:\Users\Master\Desktop\杂项\C code\1st\C lesson\c_use\Debug\C lesson.exe
+C:\Users\Master\Desktop\杂项\C code\1st\C lesson\c_use\Debug\C lesson.pdb
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\Debug\C lesson.exe
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\Debug\C lesson.pdb

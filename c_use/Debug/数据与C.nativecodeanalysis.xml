@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>数据与C.c</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>study2</FUNCTION>
+    <DECORATED>study2</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>数据与C.c</FILENAME>
+      <LINE>41</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>data_classwork3</FUNCTION>
+    <DECORATED>data_classwork3</DECORATED>
+    <FUNCLINE>38</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>数据与C.c</FILENAME>
+      <LINE>55</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>data_classwork5</FUNCTION>
+    <DECORATED>data_classwork5</DECORATED>
+    <FUNCLINE>51</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>数据与C.c</FILENAME>
+      <LINE>65</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>data_classwork6</FUNCTION>
+    <DECORATED>data_classwork6</DECORATED>
+    <FUNCLINE>59</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>数据与C.c</FILENAME>
+      <LINE>74</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>data_classwork7</FUNCTION>
+    <DECORATED>data_classwork7</DECORATED>
+    <FUNCLINE>70</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>数据与C.c</FILENAME>
+      <LINE>83</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>data_classwork8</FUNCTION>
+    <DECORATED>data_classwork8</DECORATED>
+    <FUNCLINE>79</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

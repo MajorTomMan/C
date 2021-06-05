@@ -1,0 +1,10 @@
+﻿  mall.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\mall.c(29,33): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\mall.c(28,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\mall.c(31,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  高级数据表示.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\高级数据表示.c(48,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\高级数据表示.c(50,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\mall.c(68): warning C4715: “mall”: 不是所有的控件路径都返回值
+  C lesson.vcxproj -> C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\Debug\C lesson.exe

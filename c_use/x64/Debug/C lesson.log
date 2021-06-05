@@ -1,0 +1,49 @@
+﻿  diceroll.c
+  manydice.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\diceroll\manydice.c(12,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\diceroll\manydice.c(14,16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pe12-2a.c
+  pe12-2b.c
+  1st.c
+c1 : fatal error C1083: 无法打开源文件: “1st.c”: No such file or directory
+  ADT.c
+c1 : fatal error C1083: 无法打开源文件: “ADT.c”: No such file or directory
+  list.c
+c1 : fatal error C1083: 无法打开源文件: “list.c”: No such file or directory
+  mall.c
+c1 : fatal error C1083: 无法打开源文件: “mall.c”: No such file or directory
+  queue.c
+c1 : fatal error C1083: 无法打开源文件: “queue.c”: No such file or directory
+  tree.c
+c1 : fatal error C1083: 无法打开源文件: “tree.c”: No such file or directory
+  use_q.c
+c1 : fatal error C1083: 无法打开源文件: “use_q.c”: No such file or directory
+  内存分配.c
+c1 : fatal error C1083: 无法打开源文件: “内存分配.c”: No such file or directory
+  字符串输出.c
+c1 : fatal error C1083: 无法打开源文件: “字符串输出.c”: No such file or directory
+  指针.c
+c1 : fatal error C1083: 无法打开源文件: “指针.c”: No such file or directory
+  概述.c
+c1 : fatal error C1083: 无法打开源文件: “概述.c”: No such file or directory
+  数据与C.c
+c1 : fatal error C1083: 无法打开源文件: “数据与C.c”: No such file or directory
+  字符串和格式化输入输出.c
+c1 : fatal error C1083: 无法打开源文件: “字符串和格式化输入输出.c”: No such file or directory
+  结构_枚举及联合.c
+c1 : fatal error C1083: 无法打开源文件: “结构_枚举及联合.c”: No such file or directory
+  表达式.c
+c1 : fatal error C1083: 无法打开源文件: “表达式.c”: No such file or directory
+  循环.c
+c1 : fatal error C1083: 无法打开源文件: “循环.c”: No such file or directory
+  正在生成代码...
+  正在编译...
+  分支与跳转.c
+c1 : fatal error C1083: 无法打开源文件: “分支与跳转.c”: No such file or directory
+  字符输入输出验证.c
+c1 : fatal error C1083: 无法打开源文件: “字符输入输出验证.c”: No such file or directory
+  函数.c
+c1 : fatal error C1083: 无法打开源文件: “函数.c”: No such file or directory
+  高级数据表示.c
+c1 : fatal error C1083: 无法打开源文件: “高级数据表示.c”: No such file or directory
+  正在生成代码...

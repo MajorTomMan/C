@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串输出.c</FILENAME>
+      <LINE>119</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6001</DEFECTCODE>
+    <DESCRIPTION>使用未初始化的内存“ch1”。</DESCRIPTION>
+    <FUNCTION>isequal</FUNCTION>
+    <DECORATED>isequal</DECORATED>
+    <FUNCLINE>89</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>90</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>未初始化“ch1”</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>91</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>92</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>92</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>93</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>94</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>分支</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>跳过此循环(假定“*str1”为 false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>107</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>119</LINE>
+        <COLUMN>11</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“ch1”是对“strcmp”的输入(在 d:\windows kits\10\include\10.0.18362.0\ucrt\string.h:100 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>119</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>已使用“ch1”，但可能尚未将其初始化</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串输出.c</FILENAME>
+      <LINE>119</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>6001</DEFECTCODE>
+    <DESCRIPTION>使用未初始化的内存“ch2”。</DESCRIPTION>
+    <FUNCTION>isequal</FUNCTION>
+    <DECORATED>isequal</DECORATED>
+    <FUNCLINE>89</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>90</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>91</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>未初始化“ch2”</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>92</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>92</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>93</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>94</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>107</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>分支</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>跳过此循环(假定“*str2”为 false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>119</LINE>
+        <COLUMN>11</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“ch2”是对“strcmp”的输入(在 d:\windows kits\10\include\10.0.18362.0\ucrt\string.h:100 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串输出.c</FILENAME>
+        <LINE>119</LINE>
+        <COLUMN>17</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>已使用“ch2”，但可能尚未将其初始化</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串输出.c</FILENAME>
+      <LINE>282</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6274</DEFECTCODE>
+    <DESCRIPTION>传递了非字符型作为 _Param_(2)，而对“printf”的调用需要一个字符，实际类型: “char *”。</DESCRIPTION>
+    <FUNCTION>string_output_classwork_5</FUNCTION>
+    <DECORATED>string_output_classwork_5</DECORATED>
+    <FUNCLINE>272</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

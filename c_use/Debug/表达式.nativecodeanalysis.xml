@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>表达式.c</FILENAME>
+      <LINE>49</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>intergral_classwork1</FUNCTION>
+    <DECORATED>intergral_classwork1</DECORATED>
+    <FUNCLINE>45</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>表达式.c</FILENAME>
+      <LINE>61</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>intergral_classwork2</FUNCTION>
+    <DECORATED>intergral_classwork2</DECORATED>
+    <FUNCLINE>58</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>表达式.c</FILENAME>
+      <LINE>74</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>intergral_classwork3</FUNCTION>
+    <DECORATED>intergral_classwork3</DECORATED>
+    <FUNCLINE>70</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>表达式.c</FILENAME>
+      <LINE>87</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>intergral_classwork4</FUNCTION>
+    <DECORATED>intergral_classwork4</DECORATED>
+    <FUNCLINE>82</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>表达式.c</FILENAME>
+      <LINE>97</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>intergral_classwork5</FUNCTION>
+    <DECORATED>intergral_classwork5</DECORATED>
+    <FUNCLINE>94</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>表达式.c</FILENAME>
+      <LINE>109</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>intergral_classwork6</FUNCTION>
+    <DECORATED>intergral_classwork6</DECORATED>
+    <FUNCLINE>106</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>表达式.c</FILENAME>
+      <LINE>130</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>intergral_classwork8</FUNCTION>
+    <DECORATED>intergral_classwork8</DECORATED>
+    <FUNCLINE>126</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>表达式.c</FILENAME>
+      <LINE>132</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>intergral_classwork8</FUNCTION>
+    <DECORATED>intergral_classwork8</DECORATED>
+    <FUNCLINE>126</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>表达式.c</FILENAME>
+      <LINE>138</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>intergral_classwork8</FUNCTION>
+    <DECORATED>intergral_classwork8</DECORATED>
+    <FUNCLINE>126</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

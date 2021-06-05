@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>study4</FUNCTION>
+    <DECORATED>study4</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>study4</FUNCTION>
+    <DECORATED>study4</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6054</DEFECTCODE>
+    <DESCRIPTION>可能没有为字符串“name”添加字符串零终止符。</DESCRIPTION>
+    <FUNCTION>study4</FUNCTION>
+    <DECORATED>study4</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>7</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>7</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>8</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>8</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>9</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>此表达式不能为“name”添加字符串零终止符</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>10</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>11</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“name”是“scanf”中的输出(在 d:\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:1274 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>12</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“name”是“printf”中的输出(在 d:\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:948 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>13</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>14</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>15</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“name”是对“strlen”的输入(在 d:\windows kits\10\include\10.0.18362.0\ucrt\string.h:219 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>15</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>“name”必须由“strlen”上的 SAL 批注添加字符串零终止符</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>string_classwork1</FUNCTION>
+    <DECORATED>string_classwork1</DECORATED>
+    <FUNCLINE>26</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>39</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>string_classwork2</FUNCTION>
+    <DECORATED>string_classwork2</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>43</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6054</DEFECTCODE>
+    <DESCRIPTION>可能没有为字符串“Fristname”添加字符串零终止符。</DESCRIPTION>
+    <FUNCTION>string_classwork2</FUNCTION>
+    <DECORATED>string_classwork2</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>35</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>此表达式不能为“Fristname”添加字符串零终止符</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>36</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“Fristname”是“scanf”中的输出(在 d:\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:1274 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“Fristname”是“printf”中的输出(在 d:\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:948 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“Fristname”是“printf”中的输出(在 d:\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:948 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>42</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“Fristname”是“printf”中的输出(在 d:\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:948 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>43</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>6</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“Fristname”是对“strlen”的输入(在 d:\windows kits\10\include\10.0.18362.0\ucrt\string.h:219 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>43</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>7</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>“Fristname”必须由“strlen”上的 SAL 批注添加字符串零终止符</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>44</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6054</DEFECTCODE>
+    <DESCRIPTION>可能没有为字符串“Secondname”添加字符串零终止符。</DESCRIPTION>
+    <FUNCTION>string_classwork2</FUNCTION>
+    <DECORATED>string_classwork2</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>35</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>36</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>此表达式不能为“Secondname”添加字符串零终止符</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“Secondname”是“scanf”中的输出(在 d:\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:1274 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“Secondname”是“printf”中的输出(在 d:\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:948 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“Secondname”是“printf”中的输出(在 d:\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:948 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>42</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“Secondname”是“printf”中的输出(在 d:\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:948 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>43</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>44</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>6</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“Secondname”是对“strlen”的输入(在 d:\windows kits\10\include\10.0.18362.0\ucrt\string.h:219 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>44</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>7</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>“Secondname”必须由“strlen”上的 SAL 批注添加字符串零终止符</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>53</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>string_classwork3</FUNCTION>
+    <DECORATED>string_classwork3</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>63</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>string_classwork4</FUNCTION>
+    <DECORATED>string_classwork4</DECORATED>
+    <FUNCLINE>59</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>71</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>string_classwork5</FUNCTION>
+    <DECORATED>string_classwork5</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>84</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>string_classwork6</FUNCTION>
+    <DECORATED>string_classwork6</DECORATED>
+    <FUNCLINE>79</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>86</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6054</DEFECTCODE>
+    <DESCRIPTION>可能没有为字符串“Secondname”添加字符串零终止符。</DESCRIPTION>
+    <FUNCTION>string_classwork6</FUNCTION>
+    <DECORATED>string_classwork6</DECORATED>
+    <FUNCLINE>79</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>80</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>81</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>此表达式不能为“Secondname”添加字符串零终止符</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>82</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>82</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>83</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>84</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“Secondname”是“scanf”中的输出(在 d:\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:1274 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>85</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>86</LINE>
+        <COLUMN>10</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“Secondname”是对“strlen”的输入(在 d:\windows kits\10\include\10.0.18362.0\ucrt\string.h:219 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>86</LINE>
+        <COLUMN>10</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>“Secondname”必须由“strlen”上的 SAL 批注添加字符串零终止符</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>85</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6054</DEFECTCODE>
+    <DESCRIPTION>可能没有为字符串“Fristname”添加字符串零终止符。</DESCRIPTION>
+    <FUNCTION>string_classwork6</FUNCTION>
+    <DECORATED>string_classwork6</DECORATED>
+    <FUNCLINE>79</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>80</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>此表达式不能为“Fristname”添加字符串零终止符</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>81</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>82</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>82</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>83</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>84</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>声明</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“Fristname”是“scanf”中的输出(在 d:\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:1274 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>85</LINE>
+        <COLUMN>10</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>“Fristname”是对“strlen”的输入(在 d:\windows kits\10\include\10.0.18362.0\ucrt\string.h:219 处声明)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+        <FILENAME>字符串和格式化输入输出.c</FILENAME>
+        <LINE>85</LINE>
+        <COLUMN>10</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>使用情况</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>“Fristname”必须由“strlen”上的 SAL 批注添加字符串零终止符</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>97</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6272</DEFECTCODE>
+    <DESCRIPTION>传递了非浮点型参数“2”，而对“printf”的调用需要浮点型参数，实际类型: “int”。</DESCRIPTION>
+    <FUNCTION>string_classwork7</FUNCTION>
+    <DECORATED>string_classwork7</DECORATED>
+    <FUNCLINE>92</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>97</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6272</DEFECTCODE>
+    <DESCRIPTION>传递了非浮点型参数“3”，而对“printf”的调用需要浮点型参数，实际类型: “int”。</DESCRIPTION>
+    <FUNCTION>string_classwork7</FUNCTION>
+    <DECORATED>string_classwork7</DECORATED>
+    <FUNCLINE>92</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>97</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6272</DEFECTCODE>
+    <DESCRIPTION>传递了非浮点型参数“4”，而对“printf”的调用需要浮点型参数，实际类型: “int”。</DESCRIPTION>
+    <FUNCTION>string_classwork7</FUNCTION>
+    <DECORATED>string_classwork7</DECORATED>
+    <FUNCLINE>92</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>98</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6272</DEFECTCODE>
+    <DESCRIPTION>传递了非浮点型参数“2”，而对“printf”的调用需要浮点型参数，实际类型: “int”。</DESCRIPTION>
+    <FUNCTION>string_classwork7</FUNCTION>
+    <DECORATED>string_classwork7</DECORATED>
+    <FUNCLINE>92</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>98</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6272</DEFECTCODE>
+    <DESCRIPTION>传递了非浮点型参数“3”，而对“printf”的调用需要浮点型参数，实际类型: “int”。</DESCRIPTION>
+    <FUNCTION>string_classwork7</FUNCTION>
+    <DECORATED>string_classwork7</DECORATED>
+    <FUNCLINE>92</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>字符串和格式化输入输出.c</FILENAME>
+      <LINE>98</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6272</DEFECTCODE>
+    <DESCRIPTION>传递了非浮点型参数“4”，而对“printf”的调用需要浮点型参数，实际类型: “int”。</DESCRIPTION>
+    <FUNCTION>string_classwork7</FUNCTION>
+    <DECORATED>string_classwork7</DECORATED>
+    <FUNCLINE>92</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

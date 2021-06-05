@@ -1,0 +1,402 @@
+﻿  ADT.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\adt\ADT.c(18,48): warning C4047: “!=”:“char *”与“int”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\adt\ADT.c(20,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  list.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\adt\list.c(211,1): warning C4090: “初始化”: 不同的“const”限定符
+  1st.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\1st.c(62,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  内存分配.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\内存分配.c(6,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\内存分配.c(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\内存分配.c(34,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\内存分配.c(143,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\内存分配.c(145,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  函数.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(48,29): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(84,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(125,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(167,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(250,10): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(267,6): warning C4101: “result”: 未引用的局部变量
+  分支与跳转.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(53,10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(159,19): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(162,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(152,10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(184,19): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(187,18): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(195,23): warning C4013: “if_switch_classwork8”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(224,28): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(230,29): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(219,10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(223,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(226,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(229,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(232,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(275,20): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(277,20): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(279,25): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(285,25): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(287,20): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(289,25): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(295,20): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(297,20): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(299,25): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(305,20): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(307,20): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(309,25): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(269,10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(273,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(283,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(293,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(303,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(338,14): warning C4013: “twelve_menu”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(384,27): warning C4215: 使用了非标准扩展: 长浮点
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(384,57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(331,1): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(334,1): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(339,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(342,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(346,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(350,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  字符串和格式化输入输出.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(16,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(30,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(39,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(53,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(63,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(72,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(73,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(71,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(84,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(97,9): warning C4477: “printf”: 格式字符串“%1.6e”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(97,9): warning C4477: “printf”: 格式字符串“%1.12e”需要类型“double”的参数，但可变参数 2 拥有了类型“int”
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(97,9): warning C4477: “printf”: 格式字符串“%1.16e”需要类型“double”的参数，但可变参数 3 拥有了类型“int”
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(98,9): warning C4477: “printf”: 格式字符串“%1.6e”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(98,9): warning C4477: “printf”: 格式字符串“%1.12e”需要类型“double”的参数，但可变参数 2 拥有了类型“int”
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(98,9): warning C4477: “printf”: 格式字符串“%1.16e”需要类型“double”的参数，但可变参数 3 拥有了类型“int”
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(94,1): warning C4305: “初始化”: 从“double”到“float”截断
+  字符串输出.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(77,13): warning C4047: “=”:“char”与“void *”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(140,6): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(262,15): warning C4047: “return”:“char”与“char *”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(269,13): warning C4047: “return”:“char”与“char *”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(277,24): warning C4047: “=”:“char *”与“char”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(278,20): warning C4047: “函数”:“const char *”与“int”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(278,17): warning C4024: “strcmp”: 形参和实参 2 的类型不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(282,10): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+  字符输入输出验证.c
+  循环.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(8,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(82,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(100,1): warning C4047: “初始化”:“char”与“char [1]”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(104,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(119,21): warning C4013: “strlen”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(118,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(130,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(136,25): warning C4013: “recycle_classwork8_func”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(142,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(151,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(170,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(202,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(225,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(234,1): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(262,1): warning C4305: “初始化”: 从“double”到“float”截断
+  指针.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(17,19): warning C4090: “=”: 不同的“const”限定符
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(8,1): warning C4305: “初始化”: 从“double”到“const float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(9,1): warning C4305: “初始化”: 从“double”到“const float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(10,1): warning C4305: “初始化”: 从“double”到“const float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(11,1): warning C4305: “初始化”: 从“double”到“const float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(12,1): warning C4305: “初始化”: 从“double”到“const float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(63,11): warning C4090: “=”: 不同的“const”限定符
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(72,11): warning C4090: “=”: 不同的“const”限定符
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(84,13): warning C4090: “=”: 不同的“const”限定符
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(457,20): warning C4090: “=”: 不同的“const”限定符
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(448,1): warning C4305: “初始化”: 从“double”到“const float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(449,1): warning C4305: “初始化”: 从“double”到“const float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(450,1): warning C4305: “初始化”: 从“double”到“const float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(451,1): warning C4305: “初始化”: 从“double”到“const float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(452,1): warning C4305: “初始化”: 从“double”到“const float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(473,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  数据与C.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\数据与C.c(9,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\数据与C.c(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\数据与C.c(34,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\数据与C.c(31,1): warning C4305: “初始化”: 从“__int64”到“int”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\数据与C.c(32,1): warning C4056: 浮点常量算术溢出
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\数据与C.c(33,1): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\数据与C.c(41,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\数据与C.c(55,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\数据与C.c(65,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\数据与C.c(74,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\数据与C.c(83,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  概述.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\概述.c(47,7): warning C4013: “jolly”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\概述.c(50,6): warning C4013: “deny”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\概述.c(55,4): warning C4013: “br”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\概述.c(56,4): warning C4013: “ic”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\概述.c(69,11): warning C4013: “one_three”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\概述.c(95,5): warning C4013: “two”未定义；假设外部返回 int
+  结构_枚举及联合.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(93,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(95,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(97,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(99,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(132,14): warning C4047: “=”:“month_name *”与“month_name (*)[12]”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(139,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(154,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(179,3): warning C4101: “Car”: 未引用的局部变量
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(190,33): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(196,21): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(197,17): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(199,33): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(195,14): warning C4101: “ptr”: 未引用的局部变量
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(205,12): warning C4047: “return”:“int”与“gas *”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(210,21): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(211,17): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(213,25): warning C4047: “=”:“gas *”与“int”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(248,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(249,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(281,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(292,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(301,25): warning C4020: “strchr”: 实参太多
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(375,38): warning C4013: “s_gets_Tree”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(375,79): warning C4047: “!=”:“int”与“void *”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(398,20): warning C4047: “函数”:“book *”与“book (*)[100]”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(398,12): warning C4024: “show_sort”: 形参和实参 1 的类型不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(399,20): warning C4047: “函数”:“book *”与“book (*)[100]”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(399,12): warning C4024: “show_word”: 形参和实参 1 的类型不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(400,31): warning C4047: “函数”:“book *”与“book (*)[100]”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(400,23): warning C4024: “show_ascending_order”: 形参和实参 1 的类型不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(379,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(423,31): warning C4047: “函数”:“social_insurance *”与“social_insurance (*)[5]”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(423,24): warning C4024: “show_social_insurance”: 形参和实参 1 的类型不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(420,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(421,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(422,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(424,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(425,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(426,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(432,15): warning C4047: “=”:“social_insurance *”与“social_insurance (*)[5]”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(433,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(434,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(435,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(437,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(438,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(439,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(449,37): warning C4047: “函数”:“const char *”与“char (*)[30]”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(449,15): warning C4024: “strcmp”: 形参和实参 1 的类型不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(448,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(452,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(454,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(456,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(458,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(505,25): warning C4047: “函数”:“students *”与“students (*)[4]”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(505,16): warning C4024: “gets_input”: 形参和实参 1 的类型不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(506,43): warning C4047: “函数”:“students *”与“students (*)[4]”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(506,34): warning C4024: “calculate_studens_average_score”: 形参和实参 1 的类型不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(507,22): warning C4047: “函数”:“students *”与“students (*)[4]”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(507,13): warning C4024: “show_score”: 形参和实参 1 的类型不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(508,30): warning C4047: “函数”:“students *”与“students (*)[4]”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(508,21): warning C4024: “output_class_score”: 形参和实参 1 的类型不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(523,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(524,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(525,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(584,58): warning C4047: “函数”:“const char *”与“char (*)[4]”的间接级别不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(584,14): warning C4024: “strcmp”: 形参和实参 1 的类型不同
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(579,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(586,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(587,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(598,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(624,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(626,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(627,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(628,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(639,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(669,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(707,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(727,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  表达式.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\表达式.c(49,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\表达式.c(61,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\表达式.c(74,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\表达式.c(88,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\表达式.c(87,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\表达式.c(97,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\表达式.c(109,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\表达式.c(132,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“const int *”
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\表达式.c(130,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\表达式.c(132,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\表达式.c(138,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  高级数据表示.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\高级数据表示.c(48,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\高级数据表示.c(50,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\高级数据表示.c(36,14): warning C4101: “temp”: 未引用的局部变量
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\高级数据表示.c(103,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\高级数据表示.c(105,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  diceroll.c
+  manydice.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\diceroll\manydice.c(12,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\diceroll\manydice.c(14,16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pe12-2a.c
+  pe12-2b.c
+  正在生成代码...
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\表达式.c(37): warning C4716: “test5”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(157): warning C4716: “struct_review_6”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(83): warning C4716: “struct_review_3”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(142): warning C4716: “struct_review_5”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(119): warning C4716: “struct_review_4”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(161): warning C4716: “show_bem”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(170): warning C4716: “struct_review_7”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(180): warning C4716: “struct_review_9”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(201): warning C4716: “struct_review_10_a”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(219): warning C4716: “struct_review_11”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(215): warning C4716: “struct_review_10_b”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(225): warning C4716: “struct_review_12”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(241): warning C4716: “struct_review_13”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(287): warning C4716: “return_gets_days”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(283): warning C4716: “struct_classwork_1”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(276): warning C4716: “return_days_month”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(294): warning C4716: “struct_classwork_2”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(407): warning C4716: “struct_classwork_3”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(441): warning C4716: “struct_classwork_4_b”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(428): warning C4716: “struct_classwork_4_a”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(490): warning C4716: “show_score”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(500): warning C4716: “output_class_score”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(510): warning C4716: “struct_classwork_5”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(545): warning C4716: “show_empty_seats_number”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(570): warning C4716: “show_alphabetical_seats_list”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(671): warning C4716: “airplane_menu”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(693): warning C4716: “struct_classwork_8”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(709): warning C4716: “airplane_menu_n”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(759): warning C4716: “another_airplane_menu”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\结构_枚举及联合.c(788): warning C4716: “struct_classwork_9”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\数据与C.c(32): warning C4756: 常量算法中溢出
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\数据与C.c(93): warning C4716: “data_classwork8”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(42): warning C4716: “printer_classwork_1”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(38): warning C4716: “rain”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(114): warning C4716: “printer_classwork_2”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(127): warning C4716: “max_return_”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(153): warning C4716: “printer_classwork_4”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(132): warning C4716: “printer_classwork_3”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(182): warning C4716: “printer_classwork_5”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(218): warning C4716: “printer_classwork_6”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(213): warning C4716: “reverse_order”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(261): warning C4716: “printer_classwork_7”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(249): warning C4716: “copy_arr4”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(295): warning C4716: “copy_arr5”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(301): warning C4716: “printer_classwork_8”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(311): warning C4716: “show_arr”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(342): warning C4716: “printer_classwork_9”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(387): warning C4716: “printer_classwork_10”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(336): warning C4716: “copy_arr6”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(380): warning C4716: “calculate_arr”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(395): warning C4716: “double_arr_value”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(413): warning C4716: “show_arr_value”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(420): warning C4716: “printer_classwork_11”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(432): warning C4716: “calculate_years_rainfall”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(444): warning C4716: “calculate_months_rainfall”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(465): warning C4716: “printer_classwork_12”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(462): warning C4716: “rain_func”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(477): warning C4716: “User_input”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(490): warning C4716: “calculate_average”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(501): warning C4716: “calaulate_max”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(521): warning C4716: “users_input”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\指针.c(525): warning C4716: “printer_classwork_13”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(112): warning C4716: “recycle_classwork6”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(137): warning C4716: “recycle_classwork9”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(179): warning C4716: “recycle_classwork12”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(175): warning C4716: “recycle_classwork11”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(194): warning C4716: “recycle_classwork13”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(231): warning C4716: “recycle_classwork15”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(258): warning C4716: “recycle_classwork16”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(276): warning C4716: “recycle_classwork17”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\循环.c(288): warning C4716: “recycle_classwork18”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(24): warning C4716: “string_output_review_9”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(38): warning C4716: “string_output_review_10”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(66): warning C4716: “string_output_review_11”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(87): warning C4716: “string_output_review_12”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(134): warning C4716: “string_output_review_13”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(159): warning C4716: “string_output_classwork_1”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(183): warning C4716: “string_output_classwork_2”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(219): warning C4716: “string_output_classwork_3”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(214): warning C4716: “word_check”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(255): warning C4716: “string_output_classwork_4”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(250): warning C4716: “word_check_n”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串输出.c(284): warning C4716: “string_output_classwork_5”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\字符串和格式化输入输出.c(99): warning C4716: “string_classwork7”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(22): warning C4716: “if_switch_classwork1”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(42): warning C4716: “if_switch_classwork2”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(114): warning C4716: “if_switch_classwork4”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(87): warning C4716: “if_switch_classwork3”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(145): warning C4716: “if_switch_classwork6”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(129): warning C4716: “if_switch_classwork5”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(172): warning C4716: “if_switch_classwork7”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(201): warning C4716: “calculate_salary”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(212): warning C4716: “menu”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(242): warning C4716: “if_switch_classwork8”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(262): warning C4716: “ten_menu”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(327): warning C4716: “if_switch_classwork10”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(417): warning C4716: “twelve_menu”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\分支与跳转.c(408): warning C4716: “if_switch_classwork11”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(10): warning C4716: “alter”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(44): warning C4716: “review_function_menu”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(65): warning C4716: “chline”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(70): warning C4716: “function_classwork_2”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(79): warning C4716: “chline_1”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(86): warning C4716: “function_classwork_3”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(102): warning C4716: “function_classwork_4”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(97): warning C4716: “average_sum”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(127): warning C4716: “function_classwork_5”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(160): warning C4716: “exchange_function”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(169): warning C4716: “function_classwork_6”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(173): warning C4716: “function_classwork_7”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(205): warning C4716: “function_classwork_8”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(230): warning C4716: “function_classwork_9”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(238): warning C4716: “binary”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(245): warning C4716: “function_classwork_10”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(253): warning C4716: “binary_n”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(260): warning C4716: “function_classwork_11”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\函数.c(279): warning C4716: “function_classwork_12”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\内存分配.c(22): warning C4716: “memory_classwork_1”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\内存分配.c(38): warning C4716: “memory_classwork_4”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\内存分配.c(83): warning C4716: “memory_classwork_5”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\内存分配.c(114): warning C4716: “memory_classwork_6”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\内存分配.c(110): warning C4716: “random_n”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\内存分配.c(126): warning C4716: “show_array”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\内存分配.c(76): warning C4716: “random_n_sort”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\内存分配.c(159): warning C4716: “memory_classwork_7”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\内存分配.c(154): warning C4716: “pe12_8”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\1st.c(85): warning C4716: “recycle”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\1st.c(98): warning C4716: “if_switch”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\1st.c(102): warning C4716: “char_comfirm”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\1st.c(121): warning C4716: “function”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\1st.c(150): warning C4716: “string_output”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\1st.c(137): warning C4716: “printer”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\1st.c(160): warning C4716: “memory”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\1st.c(177): warning C4716: “struct_”: 必须返回一个值
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\c_use\1st.c(188): warning C4716: “linked_list”: 必须返回一个值
+  正在编译...
+  stack_word.c
+  use_word.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\stack_word\use_word.c(20,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  petclub.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\tree\petclub.c(71,15): warning C4013: “Tree_AddItem”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\tree\petclub.c(80,11): warning C4013: “Traverse”未定义；假设外部返回 int
+  tree.c
+  Stack.c
+  Use_s.c
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\Stack\Use_s.c(9,17): warning C4013: “InitializeStack”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\Stack\Use_s.c(22,20): warning C4013: “StackIsFull”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\Stack\Use_s.c(24,12): warning C4013: “EnStack”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\Stack\Use_s.c(31,20): warning C4013: “StackIsEmpty”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\Stack\Use_s.c(35,12): warning C4013: “DeStack”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\Stack\Use_s.c(39,48): warning C4013: “StackGoodsCount”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\Stack\Use_s.c(42,15): warning C4013: “StackAllClear”未定义；假设外部返回 int
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\Stack\Use_s.c(19,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\Stack\Use_s.c(21,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  Study_C.vcxproj -> C:\Users\Master\Desktop\Learndata\C code\1st\C lesson\Stack\Debug\Study_C.exe

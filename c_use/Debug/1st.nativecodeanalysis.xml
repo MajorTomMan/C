@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Master\Desktop\备用文件夹\C code\1st\C lesson\c_use\</FILEPATH>
+      <FILENAME>1st.c</FILENAME>
+      <LINE>62</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>intergral</FUNCTION>
+    <DECORATED>intergral</DECORATED>
+    <FUNCLINE>51</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
